@@ -17,6 +17,12 @@ useEffect(()=>{
       <button onClick={
         () =>{click ("Red")}
       }>Change color</button>
+      <button onClick={
+        () =>{click ("green")}
+      }>Change color</button>
+      <button onClick={
+        () =>{click ("blue")}
+      }>Change color</button>
       <div>how to change colors</div>
 
     </div>
